@@ -24,11 +24,11 @@ These sentiments are politically incorrect, and therefore not shown in official 
 
 <iframe src="assets/fig9.png" width="400" height="600" frameBorder="0"></iframe>
 
-<p><>ESPN or NBA has the full power to regulate and take down comments. The fact that they haven't means that they are turning a blind eye completely.</strong></p>
+<p>ESPN or NBA has the full power to regulate and take down comments. The fact that they haven't means that they are turning a blind eye completely.</p>
 
 <iframe src="assets/fig2.png" width="400" height="600" frameBorder="0"></iframe>
 
-<p><>Stephen Curry, while he is arguably the greatest point guard of all time, is referred to this here because point guards traditionally dish out many "assists" and "set up" their teammates. The implication is that he is the one who "set up" Edwards with his new posse of girls. Rui Hachimara is the only mixed black-Japanese player in the NBA - a quite vulgar implication.</strong></p>
+<p>Stephen Curry, while he is arguably the greatest point guard of all time, is referred to this here because point guards traditionally dish out many "assists" and "set up" their teammates. The implication is that he is the one who "set up" Edwards with his new posse of girls. Rui Hachimara is the only mixed black-Japanese player in the NBA - a quite vulgar implication.</p>
 
 <iframe src="assets/fig3.png" width="400" height="300" frameBorder="0"></iframe>
 ---
@@ -36,13 +36,13 @@ These sentiments are politically incorrect, and therefore not shown in official 
 ---
 <iframe src="assets/fig5.png" width="400" height="600" frameBorder="0"></iframe>
 
-<p><>Stephen Curry is the teammate that introduced Anthony Edwards to the table tennis team. "Alley Oop" is a basketball term, where a player "sets up" another player for a dunk. The commenter is implying that Curry "set up" Anthony Edwards with these girls.</></p>
+<p>Stephen Curry is the teammate that introduced Anthony Edwards to the table tennis team. "Alley Oop" is a basketball term, where a player "sets up" another player for a dunk. The commenter is implying that Curry "set up" Anthony Edwards with these girls.</p>
 
 <iframe src="assets/fig6.png" width="400" height="600" frameBorder="0"></iframe>
 ---
 <iframe src="assets/fig7.png" width="400" height="300" frameBorder="0"></iframe>
 
-<p><>"Game is game", a phrase used in modern slang to signify picking up women. It can either mean one does it through unconventional methods (e.g., someone who brings a barrel of cheese to a date) or someone who pursues 'unconventional' women (someone not up to their standards). Needless to say, this is problematic and showcases many things wrong with American perceptions of both Asian American women and black men alike.</></p>
+<p>"Game is game", a phrase used in modern slang to signify picking up women. It can either mean one does it through unconventional methods (e.g., someone who brings a barrel of cheese to a date) or someone who pursues 'unconventional' women (someone not up to their standards). Needless to say, this is problematic and showcases many things wrong with American perceptions of both Asian American women and black men alike.</p>
 
 
 ### Media Sources
