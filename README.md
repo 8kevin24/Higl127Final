@@ -18,27 +18,30 @@ However, the ping pong team are mostly young pretty Asian American women, and th
 These sentiments are politically incorrect, and therefore not shown in official news sources concerning the events.(Funnily enough, many of the news articles themselves directly link the suspect social media posts with the problematic comments). To truly get an unfiltered version of these discriminatory sentiments, I conducted a data analysis on Instagram and Twitter posts related to these events. I determined which ones were about the Team USA Basketball x Table Tennis crossover by finding about 20 tags that correlated to this event, and filtering all posts that mentioned at least 5 of those 20 tags. I then performed a bag-of-words TFIDF analysis on these comments, and here are the words that have the highest average TFIDF score across all comments. 
 
 
-<iframe src="assets/fig11.html" width=800 height=500 frameBorder=0></iframe>
+<iframe src="assets/fig11.html" width="800" height="500" frameBorder="0"></iframe>
 
-Here are actual examples of the problematic sentiments, with explanations of some of the terms:
-<iframe src="assets/fig9.png" width=400 height=600 frameBorder=0></iframe>
+<p>Here are actual examples of the problematic sentiments, with explanations of some of the terms:</p>
 
-ESPN or NBA has the full power to regulate and take down comments. The fact that they haven't means that they are turning a blind eye completely.
-<iframe src="assets/fig2.png" width=400 height=600 frameBorder=0></iframe>
+<iframe src="assets/fig9.png" width="400" height="600" frameBorder="0"></iframe>
 
-Stephen Curry, while he is arguably the greatest point guard of all time, is referred to this here because point guards traditionally dish out many "assists" and "set up" their teammates. The implication is that he is the one who "set up" Edwards with his new posse of girls. Rui Hachimara is the only mixed black-Japanese player in the NBA - a quite vulgar implication. 
-<iframe src="assets/fig3.png" width=400 height=300 frameBorder=0></iframe>
+<p><strong>ESPN or NBA has the full power to regulate and take down comments. The fact that they haven't means that they are turning a blind eye completely.</strong></p>
 
-<iframe src="assets/fig4.png" width=400 height=300 frameBorder=0></iframe>
+<iframe src="assets/fig2.png" width="400" height="600" frameBorder="0"></iframe>
 
-<iframe src="assets/fig5.png" width=400 height=600 frameBorder=0></iframe>
+<p><strong>Stephen Curry, while he is arguably the greatest point guard of all time, is referred to this here because point guards traditionally dish out many "assists" and "set up" their teammates. The implication is that he is the one who "set up" Edwards with his new posse of girls. Rui Hachimara is the only mixed black-Japanese player in the NBA - a quite vulgar implication.</strong></p>
 
-Stephen Curry is the teammate that introduced Anthony Edwards to the table tennis team. "Alley Oop" is a basketball term, where a player "sets up" another player for a dunk. The commenter is implying that Curry "set up" Anthony Edwards with these girls.
+<iframe src="assets/fig3.png" width="400" height="300" frameBorder="0"></iframe>
+<iframe src="assets/fig4.png" width="400" height="300" frameBorder="0"></iframe>
 
-<iframe src="assets/fig6.png" width=400 height=600 frameBorder=0></iframe>
+<iframe src="assets/fig5.png" width="400" height="600" frameBorder="0"></iframe>
 
-<iframe src="assets/fig7.png" width=400 height=300 frameBorder=0></iframe>
- "Game is game", a phrase used in modern slang to signify picking up women. It can either mean one does it through unconventional methods( eg. someone who brings a barrel of cheese to a date) or someone who pursues 'unconventional' women (someone not up to their standards). Needless to say, this is problematic and showcases many things wrong with American perception of both Asian American women and black men alike.
+<p><strong>Stephen Curry is the teammate that introduced Anthony Edwards to the table tennis team. "Alley Oop" is a basketball term, where a player "sets up" another player for a dunk. The commenter is implying that Curry "set up" Anthony Edwards with these girls.</strong></p>
+
+<iframe src="assets/fig6.png" width="400" height="600" frameBorder="0"></iframe>
+<iframe src="assets/fig7.png" width="400" height="300" frameBorder="0"></iframe>
+
+<p><strong>"Game is game", a phrase used in modern slang to signify picking up women. It can either mean one does it through unconventional methods (e.g., someone who brings a barrel of cheese to a date) or someone who pursues 'unconventional' women (someone not up to their standards). Needless to say, this is problematic and showcases many things wrong with American perceptions of both Asian American women and black men alike.</strong></p>
+
 
 ### Media Sources
 - [ESPN](https://www.espn.com/olympics/story/_/id/40677183/anthony-edwards-lily-zhang-2024-paris-olympics-team-usa-womens-table-tennis)
