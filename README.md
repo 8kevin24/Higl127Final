@@ -18,7 +18,7 @@ However, the ping pong team are mostly young pretty Asian American women, and th
 These sentiments are politically incorrect, and therefore not shown in official news sources concerning the events.(Funnily enough, many of the news articles themselves directly link the suspect social media posts with the problematic comments). To truly get an unfiltered version of these discriminatory sentiments, I conducted a data analysis on Instagram and Twitter posts related to these events. I determined which ones were about the Team USA Basketball x Table Tennis crossover by finding about 20 tags that correlated to this event, and filtering all posts that mentioned at least 5 of those 20 tags. I then performed a bag-of-words TFIDF analysis on these comments, and here are the words that have the highest average TFIDF score across all comments. 
 
 
-<iframe src="assets/fig11.html" frameBorder="0"></iframe>
+<iframe src="assets/fig11.html" width = "800" height= "500" frameBorder="0"></iframe>
 
 <p>Here are actual examples of the problematic sentiments, with explanations of some of the terms:</p>
 
@@ -89,7 +89,9 @@ Fetishization of Asian women (and conversely, emasculation of Asian men) has bee
 Many of the top sentiments in our analysis are directly correlated with the table tennis team's attractiveness or the fact that they are Asian, or that the sport they play isn't "a real sport". 
 
 <iframe src="assets/fig1.png" width=400 height=900 frameBorder=0></iframe>
+
 ---
+
 <iframe src="assets/fig8.png" width=400 height=300 frameBorder=0></iframe>
 
 
