@@ -93,17 +93,17 @@ Fetishization of Asian women (and conversely, emasculation of Asian men) has bee
 <style>
     iframe {
         display: block;
-        margin: 0 auto 5px auto; /* Reduced vertical space */
+        margin: 0 auto 10px auto; /* Adjust the space between images */
     }
     p {
-        margin-top: 5px; /* Less space between text and images */
+        margin-top: 10px; /* Reduce the space between text and images */
     }
 </style>
 
 <p>Many of the top sentiments in our analysis are directly correlated with the table tennis team's attractiveness or the fact that they are Asian, or that the sport they play isn't "a real sport".</p>
 
-<iframe src="assets/fig1.png" width="400" height="900" frameBorder="0"></iframe>
-<iframe src="assets/fig8.png" width="400" height="300" frameBorder="0"></iframe>
+<iframe src="assets/fig1.png"  frameBorder="0"></iframe>
+<iframe src="assets/fig8.png"  frameBorder="0"></iframe>
 
 
 
