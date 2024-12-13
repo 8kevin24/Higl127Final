@@ -3,7 +3,9 @@ By Kevin Zhu
 ## Introduction
 This summer, Team USA’s basketball players and the women’s table tennis team formed a wholesome connection, supporting each other at games and practices during the Paris 2024 Olympics. However, this camaraderie was overshadowed by distasteful media coverage that highlighted stereotypes and cultural biases.
 
+
 An Audio Walkthrough of this project can be found [here](). The website serves as a rough outline and a place for the data analysis, while the audio recording goes more in depth about the cultural significance of these findings.
+
 ---
 
 ## Event Summary
@@ -17,26 +19,18 @@ These sentiments are politically incorrect, and therefore not shown in official 
 
 
 <iframe src="assets/fig11.html" width=500 height=800 frameBorder=0></iframe>
-
 Here are actual examples of the problematic sentiments, with explanations of some of the terms:
-
 <iframe src="assets/fig9.png" width=400 height=600 frameBorder=0></iframe>
 ESPN or NBA has the full power to regulate and take down comments. The fact that they haven't means that they are turning a blind eye completely.
-
 <iframe src="assets/fig2.png" width=400 height=600 frameBorder=0></iframe>
 Stephen Curry, while he is arguably the greatest point guard of all time, is referred to this here because point guards traditionally dish out many "assists" and "set up" their teammates. The implication is that he is the one who "set up" Edwards with his new posse of girls. Rui Hachimara is the only mixed black-Japanese player in the NBA - a quite vulgar implication. 
-
 <iframe src="assets/fig3.png" width=400 height=300 frameBorder=0></iframe>
 <iframe src="assets/fig4.png" width=400 height=300 frameBorder=0></iframe>
 <iframe src="assets/fig5.png" width=400 height=600 frameBorder=0></iframe>
 Stephen Curry is the teammate that introduced Anthony Edwards to the table tennis team. "Alley Oop" is a basketball term, where a player "sets up" another player for a dunk. The commenter is implying that Curry "set up" Anthony Edwards with these girls.
-
 <iframe src="assets/fig6.png" width=400 height=600 frameBorder=0></iframe>
 <iframe src="assets/fig7.png" width=400 height=300 frameBorder=0></iframe>
  "Game is game", a phrase used in modern slang to signify picking up women. It can either mean one does it through unconventional methods( eg. someone who brings a barrel of cheese to a date) or someone who pursues 'unconventional' women (someone not up to their standards). Needless to say, this is problematic and showcases many things wrong with American perception of both Asian American women and black men alike.
-
-
-
 
 ### Media Sources
 - [ESPN](https://www.espn.com/olympics/story/_/id/40677183/anthony-edwards-lily-zhang-2024-paris-olympics-team-usa-womens-table-tennis)
@@ -71,6 +65,7 @@ TLDR: Women in sports have traditionally been objectified. Oftentimes their perf
 > "Fortune thought Jackson’s championship status would give blacks a claim to physical manliness and prove black equality beyond athletics" (Moore 70).
 
 TLDR: While black atheletes have generally been a positive effect on American perceptions of blacks in general, they have actually partially contributed to the problematic steroetypes of brawny strength, violence, and the  toxic "masculinity" that modern American praises so much.
+
 ---
 
 ## Comparison and Analysis
@@ -86,10 +81,11 @@ Many of the top sentiments in our analysis are directly correlated with the tabl
 
 ### Perceptions of African Americans: The Womanizing Brute and the Superior Athlete
 The colonial perception of African men as primal brutes that possess overwhelming strength and are sexually dominant still persist today. To be specific, Anthony Edwards, although he endorses a playboy lifestyle, is commonly characterized as the one who is trying to "pick up" these Asian American women in these social media comments, displaying the internalized roles that these people either consciously or subconsciously assign to black men.
+
 ---
 
 ## Conclusion
 Social media's reaction to the Team USA Basketball and Table Tennis crossover at the 2024 Paris Olympics sheds light on ongoing issues in media representation of athletes, particularly regarding race and gender. By examining these problematic sentiments in depth, we reveal the lingering stereotypes that many people still harbor in our so called "liberal" and "modern" society. These stereotypes are not new news; historical precedents for them can be found in Park, Moore's and Kellner's articles.
 
 ## Works Cited
-The works cited for this project can be found [here]()
+The works cited for this project can be found [here]().
