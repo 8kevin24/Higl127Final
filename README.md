@@ -88,4 +88,4 @@ The colonial perception of African men as primal brutes that possess overwhelmin
 Social media's reaction to the Team USA Basketball and Table Tennis crossover at the 2024 Paris Olympics sheds light on ongoing issues in media representation of athletes, particularly regarding race and gender. By examining these problematic sentiments in depth, we reveal the lingering stereotypes that many people still harbor in our so called "liberal" and "modern" society. These stereotypes are not new news; historical precedents for them can be found in Park, Moore's and Kellner's articles.
 
 ## Works Cited
-The works cited for this project can be found [here]().
+The works cited for this project can be found [here](assets/fig10.pdf).
