@@ -90,14 +90,21 @@ TLDR: While black atheletes have generally been a positive effect on American pe
 
 ### Perceptions of Women: The Fetishization of Asian Women and "Ping Pong isn't a real sport"
 Fetishization of Asian women (and conversely, emasculation of Asian men) has been a problem in how Americans percieve Asians. Combined with the already misogynistic attitudes towards women in sports, these Asian American female athletes have two negative stereotypes to break free of. 
+<style>
+    iframe {
+        display: block;
+        margin: 0 auto 10px auto; /* Adjust the space between images */
+    }
+    p {
+        margin-top: 10px; /* Reduce the space between text and images */
+    }
+</style>
 
-Many of the top sentiments in our analysis are directly correlated with the table tennis team's attractiveness or the fact that they are Asian, or that the sport they play isn't "a real sport". 
+<p>Many of the top sentiments in our analysis are directly correlated with the table tennis team's attractiveness or the fact that they are Asian, or that the sport they play isn't "a real sport".</p>
 
-<iframe src="assets/fig1.png" width=400 height=900 frameBorder=0></iframe>
+<iframe src="assets/fig1.png" width="400" height="900" frameBorder="0"></iframe>
+<iframe src="assets/fig8.png" width="400" height="300" frameBorder="0"></iframe>
 
----
-
-<iframe src="assets/fig8.png" width=400 height=300 frameBorder=0></iframe>
 
 
 ### Perceptions of African Americans: The Womanizing Brute and the Superior Athlete
